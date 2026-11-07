@@ -8,6 +8,10 @@ Its primary goal is to deliver software faster, more reliably, and continuously.
 
 DevOps focuses on automation, collaboration, continuous integration, continuous delivery, monitoring, and continuous feedback.
 
+![DevOps Fundamentals Overview](../Visual/01-devops-fundamentals/devops-fundamentals-overview.png)
+
+*Figure 1: Core DevOps culture, principles, and continuous improvement.*
+
 ## 2. Development and Operations
 
 ### Development Team

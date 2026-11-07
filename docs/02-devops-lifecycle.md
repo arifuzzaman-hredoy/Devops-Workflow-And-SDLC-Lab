@@ -6,6 +6,10 @@ The DevOps Lifecycle is a continuous process that connects software development 
 
 The lifecycle is not a one-time process. Feedback from production monitoring helps teams plan and improve future releases.
 
+![DevOps Lifecycle Overview](../Visual/02-devops-lifecycle/devops-lifecycle-circular-overview.jpg)
+
+*Figure 1: The continuous DevOps lifecycle and its eight phases.*
+
 ## 2. Phases of the DevOps Lifecycle
 
 ### 2.1 Plan
